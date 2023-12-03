@@ -77,11 +77,24 @@ Binaries
 DerivedDataCache
 Intermediate
 Saved
-Content
-!/Content/Blueprints/
-!/Content/UI/
-!/Content/Maps/
-!/Content/Textures/
+Content/Assets/
+Content/Collections/
+Content/Developers/
+Content/Geometry/
+Content/InfinityBladeWarriors/
+Content/JapaneseClassroom/
+Content/Mannequin/
+Content/Materials/
+Content/StarterContent/
+Content/ThirdPerson/
+Content/ThirdPersonBP/
+
+
+
+!Content/Blueprints/*
+!Content/UI/*
+!Content/Maps/*
+!Content/Textures/*
 
 
 .vscode
